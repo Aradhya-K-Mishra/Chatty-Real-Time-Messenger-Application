@@ -1,1 +1,2 @@
-Chatty is a full-stack real-time messaging platform built using the MERN stack and Socket.IO. It enables users to engage in private and group conversations with instant message delivery, typing indicators, and live updates. The app ensures a seamless and interactive chat experience with secure authentication and persistent message storage.
+This is a Chatty Mono-repo. 
+
