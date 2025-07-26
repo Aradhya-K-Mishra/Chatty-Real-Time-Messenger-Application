@@ -1,42 +1,21 @@
-# ✨ Full Stack Realtime Chat App ✨
+Chatty is a full-stack real-time messaging platform built using the MERN stack and Socket.IO. It enables users to engage in private and group conversations with instant message delivery, typing indicators, and live updates. The app ensures a seamless and interactive chat experience with secure authentication and persistent message storage.
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+=> User registration, login, and JWT-based authentication
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+=> Real-time 1-on-1 and group messaging using Socket.IO
 
-Highlights:
+=> Typing indicators and message read receipts
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-- 🎃 Authentication && Authorization with JWT
-- 👾 Real-time messaging with Socket.io
-- 🚀 Online user status
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
+=> Persistent chat history stored in MongoDB
 
-### Setup .env file
+=> Responsive and intuitive React-based UI
 
-```js
-MONGODB_URI=...
-PORT=5001
-JWT_SECRET=...
+Tech Stack Frontend: React, Axios, Socket.IO-client
 
-CLOUDINARY_CLOUD_NAME=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
+Backend: Node.js, Express.js, Socket.IO
 
-NODE_ENV=development
-```
+Database: MongoDB with Mongoose ODM
 
-### Build the app
+Auth: JWT + bcrypt
 
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm start
-```
+Other: REST APIs, WebSockets
