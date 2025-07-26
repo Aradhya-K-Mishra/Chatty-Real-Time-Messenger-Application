@@ -1,3 +1,5 @@
+Deployment Link : https://chatty-real-time-messenger-application-1.onrender.com
+
 Chatty is a full-stack real-time messaging platform built using the MERN stack and Socket.IO. It enables users to engage in private and group conversations with instant message delivery, typing indicators, and live updates. The app ensures a seamless and interactive chat experience with secure authentication and persistent message storage.
 
 => User registration, login, and JWT-based authentication
