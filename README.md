@@ -8,8 +8,8 @@ Chatty is a full-stack real-time messaging platform built using the MERN stack a
 - Responsive and intuitive React-based UI
 
 ## Tech Stack 
--Frontend: React, Axios, Socket.IO-client
--Backend: Node.js, Express.js, Socket.IO
--Database: MongoDB with Mongoose ODM
--Auth: JWT + bcrypt
--Other: REST APIs, WebSockets
+- Frontend: React, Axios, Socket.IO-client
+- Backend: Node.js, Express.js, Socket.IO
+- Database: MongoDB with Mongoose ODM
+- Auth: JWT + bcrypt
+- Other: REST APIs, WebSockets
